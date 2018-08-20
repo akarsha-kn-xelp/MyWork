@@ -1,0 +1,69 @@
+/* .Assignment
+{
+position: relative;
+  height: 600px;
+  width :400px; 
+
+} */
+
+.Container1 {
+  position: relative;
+  height: 600px;
+  width :400px;
+}
+Container2 {
+  position: relative;
+  height: 600px;
+  width :200px;
+}
+Container3 {
+  position: relative;
+  height: 600px;
+  width :200px;
+}
+
+ .App-logo { 
+    position: absolute;
+   height: 600px;
+   width :400px;
+} 
+
+/* .App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+} */
+
+.Bottom-left {
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+  color: white;
+}
+.Bottom-left1 {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  color: white;
+}
+
+.Top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  color: white;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
